@@ -410,14 +410,14 @@
 
 .gambar {
   margin-top: 100px;
-  margin-left: 200px;
+  margin-left: 300px;
 }
 
 .bagaimana {
   font-size: 20px;
   color: #4d4d4d;
   margin-top: 100px;
-  margin-left: 130px;
+  margin-left: 200px;
 }
 .bagaimana p {
   font-size: 14px;
@@ -439,7 +439,7 @@
   margin-bottom: 100px;
 }
 .timehacker {
-  background-color: #dfe9f8;
+  background-color:#e7edf5;
 }
 .timekiri {
   margin-left: 200px;
@@ -448,14 +448,22 @@
 .timekiri p {
   margin-top: 45px;
   margin-left: 100px;
-  width: 480px;
+  width: 600px;
   color: #4d4d4d;
 }
 .timekiri img {
-  margin-left: 70px;
+  margin-left: 80px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+  
+
+.timehacker h1 {
+  margin-left: 300px;
+}
+
+
 
 @media only screen and (max-width: 745px) {
   .icon-menu {
